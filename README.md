@@ -1,1 +1,1 @@
-This repository consists of Non-convex optimization based dictionary learning for image denoising. 
+This repository consists of implementations of Non-convex optimization-based algorithms for improving the current image-processing techniques. 
